@@ -1,2 +1,2 @@
-# youtube-spring-ai-course
-Mastering Spring AI Course
+# Mastering Spring AI Course
+
