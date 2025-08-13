@@ -5,8 +5,8 @@ This is a complete course to master [Spring AI](https://spring.io/projects/sprin
 
 ## Table of Contents
 1. Introduction to Spring AI
-   * Getting Started with Open AI
-   * Chat with Open AI Compatible Models(Gemini, Groq, Docker Model Runner, etc)
+   * Getting Started with OpenAI
+   * Chat with OpenAI Compatible Models (Gemini, Groq, Docker Model Runner, etc.)
 2. Prompt Templates
 3. Structured Outputs
 4. Chat Memory
