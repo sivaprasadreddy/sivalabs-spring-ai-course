@@ -16,7 +16,7 @@
     </properties>
 
     <modules>
-
+        <module>01-chat-openai</module>
     </modules>
 
 </project>
