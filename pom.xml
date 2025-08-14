@@ -17,6 +17,7 @@
 
     <modules>
         <module>01-chat-openai</module>
+        <module>02-openai-compat-chat</module>
     </modules>
 
 </project>
