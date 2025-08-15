@@ -4,14 +4,15 @@ This is a complete course to master [Spring AI](https://spring.io/projects/sprin
 ![mastering-spring-ai.png](docs/mastering-spring-ai.png)
 
 ## Table of Contents
-1. Introduction to Spring AI
-   * Getting Started with OpenAI
-   * Chat with OpenAI Compatible Models (Gemini, Groq, Docker Model Runner, etc.)
-2. Prompt Templates
-3. Structured Outputs
-4. Chat Memory
-5. Embedding Models & Vector Stores
-6. Retrieval Augmented Generation (RAG)
-7. Tool Calling
-8. Model Context Protocol (MCP)
+1. Getting Started with Spring AI and OpenAI
+2. Chat with OpenAI Compatible Models (Gemini, Groq, Docker Model Runner, etc.)
+3. Chat with Ollama
+4. Chat with Anthropic Models
+5. Prompt Templates
+6. Structured Outputs
+7. Chat Memory
+8. Embedding Models & Vector Stores
+9. Retrieval Augmented Generation (RAG)
+10. Tool Calling
+11. Model Context Protocol (MCP)
 
