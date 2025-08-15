@@ -23,7 +23,7 @@ class OpenAICompatChatApplicationTests {
     MockMvcTester mockMvcTester;
 
     @Test
-    void chatWithGemini() {
+    void chat() {
         MvcTestResult testResult = mockMvcTester.post().uri("/api/chat")
                 .contentType(MediaType.APPLICATION_JSON)
                 .content("""
