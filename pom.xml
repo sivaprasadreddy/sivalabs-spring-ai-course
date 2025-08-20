@@ -21,6 +21,7 @@
         <module>03-chat-ollama</module>
         <module>04-chat-anthropic</module>
         <module>05-prompt-templates</module>
+        <module>06-structured-output</module>
     </modules>
 
 </project>

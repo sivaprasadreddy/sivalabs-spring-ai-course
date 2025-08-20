@@ -6,6 +6,20 @@ Content-Type: application/json
   "prompt": "What is Spring Boot?"
 }
 
+### Suggest Titles
+POST http://localhost:8080/api/suggest-titles
+Content-Type: application/json
+
+{
+  "topic": "Spring Boot Tips and Tricks",
+  "count": 5
+}
+
+
+### Get Programming Languages and their inception year
+GET http://localhost:8080/api/langs
+
+
 ### Generate Tweet
 POST http://localhost:8080/api/gen-tweet
 Content-Type: application/json
