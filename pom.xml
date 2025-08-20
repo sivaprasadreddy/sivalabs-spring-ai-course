@@ -22,6 +22,7 @@
         <module>04-chat-anthropic</module>
         <module>05-prompt-templates</module>
         <module>06-structured-output</module>
+        <module>07-chat-memory</module>
     </modules>
 
 </project>
