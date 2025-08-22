@@ -23,6 +23,7 @@
         <module>05-prompt-templates</module>
         <module>06-structured-output</module>
         <module>07-chat-memory</module>
+        <module>08-rag-vector-store</module>
     </modules>
 
 </project>

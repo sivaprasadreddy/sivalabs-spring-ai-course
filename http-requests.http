@@ -27,3 +27,19 @@ Content-Type: application/json
 {
   "prompt": "IntelliJ IDEA 2025.2 is released with a lot of new features such as Java 25 Early Access, Maven 4, JSpecify for nullability checks, Spring Debugger plugin, Spring Modulith support. Checkout https://blog.jetbrains.com/idea/2025/08/intellij-idea-2025-2/ for more details."
 }
+
+
+### Get Embeddings
+GET http://localhost:8080/api/embedding
+
+
+### Search Vector Store
+GET http://localhost:8080/api/search?query="how to contact Siva"
+
+### Chat
+POST http://localhost:8080/api/chat
+Content-Type: application/json
+
+{
+  "prompt": "How to contact Siva?"
+}
