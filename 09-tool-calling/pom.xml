@@ -11,15 +11,16 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.sivalabs</groupId>
-	<artifactId>06-structured-output</artifactId>
+	<artifactId>09-tool-calling</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>06-structured-output</name>
-	<description>Understanding Structured Output</description>
+	<name>09-tool-calling</name>
+	<description>Spring AI - Tool Calling Support</description>
 
 	<properties>
 		<java.version>24</java.version>
 		<spring-ai.version>1.0.1</spring-ai.version>
 	</properties>
+
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>

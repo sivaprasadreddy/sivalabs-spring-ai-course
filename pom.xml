@@ -24,6 +24,7 @@
         <module>06-structured-output</module>
         <module>07-chat-memory</module>
         <module>08-rag-vector-store</module>
+        <module>09-tool-calling</module>
     </modules>
 
 </project>
