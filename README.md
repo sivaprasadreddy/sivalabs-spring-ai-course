@@ -13,5 +13,5 @@ This is a complete course to master [Spring AI](https://spring.io/projects/sprin
 7. [Chat Memory](https://youtu.be/LTkch_PO2mM)
 8. [Embedding Models & Vector Stores and RAG](https://youtu.be/uUmdAa5OF9k)
 9. [Tool Calling](https://youtu.be/LJCnpsdhPlQ)
-10. Model Context Protocol (MCP)
+10. [Model Context Protocol (MCP)](https://youtu.be/z9H-qgbJNHI)
 

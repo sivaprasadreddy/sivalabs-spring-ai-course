@@ -25,6 +25,10 @@
         <module>07-chat-memory</module>
         <module>08-rag-vector-store</module>
         <module>09-tool-calling</module>
+        <module>10-sivalabs-mcp-server-stdio</module>
+        <module>11-sivalabs-mcp-server-webflux</module>
+        <module>12-sivalabs-mcp-client-stdio</module>
+        <module>13-sivalabs-mcp-client-webflux</module>
     </modules>
 
 </project>
